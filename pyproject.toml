@@ -1,0 +1,7 @@
+[project]
+name = "coffee-machine"
+version = "1.0.0"
+description = "A dependency-free, testable coffee machine simulator"
+requires-python = ">=3.11"
+[tool.ruff]
+line-length = 110
